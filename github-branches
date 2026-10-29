@@ -1,0 +1,13 @@
+﻿$ git branch -a
+  bug-fix-revert
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-revert
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
+
+$ git branch -vv
+  bug-fix-revert 4fc59bb Fix: update repo name in CONTRIBUTING.md heading
+  bug-fix-typo   1d23dd1 Fix typo: correct spelling of exercises in Getting Started section
+* main           1d23dd1 [origin/main] Fix typo: correct spelling of exercises in Getting Started section
