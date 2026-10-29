@@ -12,7 +12,7 @@ This project includes a simple interest calculator shell script that computes si
 
 ## Getting Started
 
-Clone this repository and follow along with the Git and GitHub exercises to learn version control.
+Clone this repository and follow along with the Git and GitHub excercises to learn version control.
 
 ```bash
 git clone https://github.com/finishedsarevsh/github-final-project.git
